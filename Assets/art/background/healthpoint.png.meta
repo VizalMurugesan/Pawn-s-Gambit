@@ -384,7 +384,18 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      healthpoint_0: -4103997567167697358
+      healthpoint_1: 6427123586732100344
+      healthpoint_10: 5509439447545761212
+      healthpoint_2: -1922212649998385957
+      healthpoint_3: 7801379827236859964
+      healthpoint_4: 4393261268804385974
+      healthpoint_5: -1416139471970804398
+      healthpoint_6: 911708551919925772
+      healthpoint_7: -8454700207211018709
+      healthpoint_8: -2075847682953769992
+      healthpoint_9: -2010038290417162214
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

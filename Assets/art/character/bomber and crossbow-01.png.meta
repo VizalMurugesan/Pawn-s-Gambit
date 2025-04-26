@@ -284,7 +284,14 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      bomber and crossbow-01_0: 2787674641126781472
+      bomber and crossbow-01_1: -6160692475309601129
+      bomber and crossbow-01_2: 8837078144726672915
+      bomber and crossbow-01_3: 22689276990327160
+      bomber and crossbow-01_4: -1320840908005403106
+      bomber and crossbow-01_5: 416106505824174119
+      bomber and crossbow-01_6: 2737422818432006314
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

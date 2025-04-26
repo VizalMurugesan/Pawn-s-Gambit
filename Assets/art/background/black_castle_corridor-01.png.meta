@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      black_castle_corridor-01_0: 4620158652369206800
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

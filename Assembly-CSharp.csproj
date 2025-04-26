@@ -10,7 +10,7 @@
     <ProductVersion>10.0.20506</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
     <RootNamespace></RootNamespace>
-    <ProjectGuid>{033F0CAA-490A-75EB-C9DD-6C03CCB8EA48}</ProjectGuid>
+    <ProjectGuid>{9A7F650A-0EAF-6B85-6060-2832841C167F}</ProjectGuid>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <AssemblyName>Assembly-CSharp</AssemblyName>
@@ -1422,11 +1422,11 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="NavMeshPlus.csproj">
-      <Project>{E45DF9BE-4A75-B366-D4EE-A48C7B7951F3}</Project>
+      <Project>{E99AC9CF-9A53-7B6A-C52C-9E4B01BAFD26}</Project>
       <Name>NavMeshPlus</Name>
     </ProjectReference>
     <ProjectReference Include="NavMeshPlusEditor.csproj">
-      <Project>{FE2C67F3-40EE-8E10-5F60-A471D31191CE}</Project>
+      <Project>{690179D3-B775-B4EA-57F9-38D7D52A5B14}</Project>
       <Name>NavMeshPlusEditor</Name>
     </ProjectReference>
   </ItemGroup>

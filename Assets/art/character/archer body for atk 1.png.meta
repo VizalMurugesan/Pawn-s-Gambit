@@ -209,7 +209,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      archer body for atk 1_0: -5217276725394500828
+      archer body for atk 1_1: -3860079986095498559
+      archer body for atk 1_2: -1638995668138612675
+      archer body for atk 1_3: -4545230507873711547
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

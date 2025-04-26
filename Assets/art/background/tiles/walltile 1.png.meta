@@ -484,7 +484,22 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      walltile 1_0: 1556807759283227673
+      walltile 1_1: 3465483000252149236
+      walltile 1_10: 3605277557160745900
+      walltile 1_11: 5888622879774490525
+      walltile 1_12: 8969796445521523573
+      walltile 1_13: 6641607088311586020
+      walltile 1_14: -4061696940682645361
+      walltile 1_2: 5611733429186636509
+      walltile 1_3: 5940397796775276129
+      walltile 1_4: 4533866023959235767
+      walltile 1_5: 5700391339823887560
+      walltile 1_6: -1718172039247896094
+      walltile 1_7: -754842147166590630
+      walltile 1_8: -4143141640642873045
+      walltile 1_9: 593127762509575718
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
